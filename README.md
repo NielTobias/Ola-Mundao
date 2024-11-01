@@ -1,2 +1,2 @@
-# Ola Mundao
- Repositório Curso Git
+# Olá, Mundão
+ Repositório Curso do Guanabara Git e Git Hub
